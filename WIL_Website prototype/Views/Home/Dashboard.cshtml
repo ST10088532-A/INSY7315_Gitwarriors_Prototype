@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Client Dashboard";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-1">
+    <h1>@ViewData["Title"]</h1>
+</div>
+
+
+<div class="row">
+
+    <!-- Open Tickets: stronger visual treatment when count > 0 -->
+    <div class="col-md-6 mb-3">
+        <div class="card h-100 @(Model.OpenTickets > 0 ? "border-danger border-2" : "")">
+            <div class="card-body d-flex align-items-center">
+                <i class="bi bi-ticket-detailed fs-1 me-3 @(Model.OpenTickets > 0 ? "text-danger" : "text-success")"></i>
+                <div>
+                    <h6 class="card-title mb-1">Open Tickets</h6>
+                    <p class="display-6 mb-0">@Model.OpenTickets</p>
+                    @if (Model.OpenTickets == 0)
+                    {
+                        <small class="text-success">No open tickets 🎉</small>
+                    }
+                    else
+                    {
+                        <small class="text-danger">Needs attention</small>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Network Health Score -->
+    <div class="col-md-6 mb-3">
+        <div class="card h-100">
+            <div class="card-body d-flex align-items-center">
+                <i class="bi bi-activity fs-1 me-3 text-primary"></i>
+                <div>
+                    <h6 class="card-title mb-1">Network Health Score</h6>
+                    <p class="display-6 mb-0">@Model.NetworkHealthScore%</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Next Maintenance -->
+    <div class="col-md-6 mb-3">
+        <div class="card h-100">
+            <div class="card-body d-flex align-items-center">
+                <i class="bi bi-calendar-event fs-1 me-3 text-primary"></i>
+                <div>
+                    <h6 class="card-title mb-1">Next Maintenance</h6>
+                    <p class="fs-4 mb-0">@Model.NextMaintenanceDate.ToString("MMM dd, yyyy")</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Invoice Status -->
+    <div class="col-md-6 mb-3">
+        <div class="card h-100">
+            <div class="card-body d-flex align-items-center">
+                <i class="bi bi-receipt fs-1 me-3 text-primary"></i>
+                <div>
+                    <h6 class="card-title mb-1">Invoice Status</h6>
+                    <p class="fs-4 mb-0">@Model.InvoiceStatus</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

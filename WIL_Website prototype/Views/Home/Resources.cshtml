@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Resources";
+}
+
+<h1 class="mb-4">Resources</h1>
+
+<!-- Tab navigation -->
+<ul class="nav nav-tabs mb-4" id="resourcesTab" role="tablist">
+    <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="tickets-tab" data-bs-toggle="tab" data-bs-target="#tickets" type="button" role="tab">
+            My Tickets
+        </button>
+    </li>
+    <li class="nav-item" role="presentation">
+        <button class="nav-link" id="queue-tab" data-bs-toggle="tab" data-bs-target="#queue" type="button" role="tab">
+            Technician Queue
+        </button>
+    </li>
+    <li class="nav-item" role="presentation">
+        <button class="nav-link" id="reports-tab" data-bs-toggle="tab" data-bs-target="#reports" type="button" role="tab">
+            Report Library
+        </button>
+    </li>
+</ul>
+
+<div class="tab-content" id="resourcesTabContent">
+
+    <!-- My Tickets -->
+    <div class="tab-pane fade show active" id="tickets" role="tabpanel">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h5 class="mb-0">My Support Tickets</h5>
+            <button class="btn btn-primary" disabled>+ Raise a Ticket</button>
+        </div>
+        <table class="table align-middle">
+            <thead>
+                <tr>
+                    <th>Ticket #</th>
+                    <th>Subject</th>
+                    <th>Priority</th>
+                    <th>Status</th>
+                    <th>Raised</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>#101</td>
+                    <td>VPN not working</td>
+                    <td>High</td>
+                    <td>In Progress</td>
+                    <td>Aug 10, 2026</td>
+                </tr>
+                <tr>
+                    <td>#102</td>
+                    <td>Printers offline(Midrand offices)</td>
+                    <td>Standard</td>
+                    <td>Open</td>
+                    <td>July 12, 2026</td>
+                </tr>
+                <tr>
+                    <td>#103</td>
+                    <td>Desktop Security Compromised</td>
+                    <td>Critical</td>
+                    <td>Resolved</td>
+                    <td>Aug 01, 2026</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Technician Queue -->
+    <div class="tab-pane fade" id="queue" role="tabpanel">
+        <h5 class="mb-3">Technician Ticket Queue</h5>
+        <table class="table align-middle">
+            <thead>
+                <tr>
+                    <th>Ticket #</th>
+                    <th>Client</th>
+                    <th>Subject</th>
+                    <th>Priority</th>
+                    <th>Status</th>
+                    <th>Assigned To</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>#01</td>
+                    <td>Varsity College</td>
+                    <td>VPN not working</td>
+                    <td>High</td>
+                    <td>In Progress</td>
+                    <td>Aobakwe K.</td>
+                </tr>
+                <tr>
+                    <td>#12</td>
+                    <td>Telecoms</td>
+                    <td>Printers offline(Midrand Offices)</td>
+                    <td>Standard</td>
+                    <td>Open</td>
+                    <td>Garreth C.</td>
+                </tr>
+                <tr>
+                    <td>#24</td>
+                    <td>Industrial Clothing Co.</td>
+                    <td>Server disk space low</td>
+                    <td>Critical</td>
+                    <td>Pending</td>
+                    <td>Jay-Lynne B.</td>
+                </tr>
+                <tr>
+                    <td>#24</td>
+                    <td>Industrial Co.</td>
+                    <td>Desktops Security Compromised</td>
+                    <td>Urgent</td>
+                    <td>In Progress</td>
+                    <td>Kaden.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Report Library -->
+    <div class="tab-pane fade" id="reports" role="tabpanel">
+        <h5 class="mb-3">Report Library</h5>
+        <div class="row g-3">
+            <div class="col-md-6">
+                <div class="card p-3 d-flex flex-row justify-content-between align-items-center">
+                    <div>
+                        <h6 class="mb-1">Network Performance Report</h6>
+                        <small class="text-muted">Network &middot; July 2026</small>
+                    </div>
+                    <button class="btn btn-sm btn-outline-primary" disabled>Download</button>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card p-3 d-flex flex-row justify-content-between align-items-center">
+                    <div>
+                        <h6 class="mb-1">Compliance Audit Summary</h6>
+                        <small class="text-muted">Compliance &middot; July 2026</small>
+                    </div>
+                    <button class="btn btn-sm btn-outline-primary" disabled>Download</button>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card p-3 d-flex flex-row justify-content-between align-items-center">
+                    <div>
+                        <h6 class="mb-1">Network Performance Report</h6>
+                        <small class="text-muted">Network &middot; June 2026</small>
+                    </div>
+                    <button class="btn btn-sm btn-outline-primary" disabled>Download</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

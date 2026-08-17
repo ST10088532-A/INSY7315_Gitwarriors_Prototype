@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "QiAQnAO8ab4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aobke\\source\\repos\\WIL_Website prototype\\WIL_Website prototype\\WIL_Website prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aobke\\.nuget\\packages\\mvc2futures\\2.0.50217\\mvc2futures.2.0.50217.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Mvc2Futures 2.0.50217' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\aobke\\source\\repos\\WIL_Website prototype\\WIL_Website prototype\\WIL_Website prototype.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\aobke\\source\\repos\\WIL_Website prototype\\WIL_Website prototype\\WIL_Website prototype.csproj",
+      "libraryId": "Mvc2Futures",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

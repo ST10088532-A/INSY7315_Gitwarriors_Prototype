@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WIL_Website prototype/1.0.0": {
+        "dependencies": {
+          "Mvc2Futures": "2.0.50217"
+        },
+        "runtime": {
+          "WIL_Website prototype.dll": {}
+        }
+      },
+      "Mvc2Futures/2.0.50217": {
+        "runtime": {
+          "lib/Microsoft.Web.Mvc.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.50217.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WIL_Website prototype/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mvc2Futures/2.0.50217": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-90ilYxgj4s82mfgVegs6NujfBw5zbR49SlIWW/vtjRXu6Trdi9W1xh/LlHu6or47IeBI2AhGKsqnfm7HFCBBlA==",
+      "path": "mvc2futures/2.0.50217",
+      "hashPath": "mvc2futures.2.0.50217.nupkg.sha512"
+    }
+  }
+}

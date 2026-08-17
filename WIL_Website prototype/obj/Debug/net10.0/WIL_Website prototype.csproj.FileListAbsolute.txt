@@ -1,0 +1,101 @@
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\appsettings.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\WIL_Website prototype.staticwebassets.runtime.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\WIL_Website prototype.staticwebassets.endpoints.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\WIL_Website prototype.exe
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\WIL_Website prototype.deps.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\WIL_Website prototype.runtimeconfig.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\WIL_Website prototype.dll
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\WIL_Website prototype.pdb
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\bin\Debug\net10.0\Microsoft.Web.Mvc.dll
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.csproj.AssemblyReference.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.AssemblyInfoInputs.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.AssemblyInfo.cs
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.csproj.CoreCompileInputs.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.RazorAssemblyInfo.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.RazorAssemblyInfo.cs
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\scopedcss\bundle\WIL_Website prototype.styles.css
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\scopedcss\projectbundle\WIL_Website prototype.bundle.scp.css
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\r9cvjsoywj-{0}-5qzxwhrt4m-5qzxwhrt4m.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\gthrq431il-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\sc6y8nc9p2-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\hdljh8db5u-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\rsjk6zfgwd-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\gn9jjy60ru-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\e6q29djw0s-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\skftrd3etg-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\uov6bvinhm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\uptmpqho0o-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\0i2gqaddl4-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\90teymmyid-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\rshdz549b0-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\waca5628he-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\n2sogyixyl-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\qfzl1qwfqs-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\8dphwk2tc5-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\g22onu7lc5-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\1w6kujbda7-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\ww0kqjylbs-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\daht4njt3t-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\r22e06p8g0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\ek1qr2mfip-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\meuhqml3nl-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\mvc5ea6ul1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\dkhr3cbd4h-{0}-06098lyss8-06098lyss8.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\fchx34xrgt-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\zfw820zk3b-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\fnw6mi1bqh-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\0iefp50344-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\j5oiivwhcj-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\c5o69s86eh-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\8w0mpq1hj1-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\oha953wpzp-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\864vj21hhc-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\kdb1webqn2-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\mbqi784esc-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\dzby2dvgqd-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\6bwwkd25kr-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\e6dv7c14yr-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\iomtelyy50-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\em0xtg803c-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\rhec9lubsq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\b1yv78l6wi-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\h3qrt1dukl-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\ofps11swo1-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\qe1wc8x1nb-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\t8hjw7yrk3-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\5fbxei2tpr-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\1w078u635g-{0}-356vix0kms-356vix0kms.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\belta92qmv-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\nwfj1l4921-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\wygto286dj-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\y131xmzzfk-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\lby7wi3ak9-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\1xpnqtsfsa-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\13yb4m3jaj-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\10awuv7rwm-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\1n0swndflz-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\kn6h9hqdnm-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\r2sn3z8nlz-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\p1ulnvpzxi-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\uerxih192e-{0}-27revi1f2l-27revi1f2l.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\compressed\cm8idrgsto-{0}-27revi1f2l-27revi1f2l.gz
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Webs.C7360E04.Up2Date
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.dll
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\refint\WIL_Website prototype.dll
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.pdb
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\WIL_Website prototype.genruntimeconfig.cache
+C:\Users\aobke\source\repos\WIL_Website prototype\WIL_Website prototype\obj\Debug\net10.0\ref\WIL_Website prototype.dll

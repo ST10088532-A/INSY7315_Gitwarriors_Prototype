@@ -1,0 +1,220 @@
+//CSS additions for clean themed command responsive navigation bar
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem var(--brand-accent);
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+    color: var(--bs-secondary-color);
+    text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+    text-align: start;
+}
+
+/* ============================
+   Site-wide colour scheme
+   (light green theme - generic, subject to change)
+   ============================ */
+
+:root {
+    --brand-primary: #0B3D91; /* blue - navbar, headings */
+    --brand-accent: #1B4332; /* dark green - buttons, links, focus */
+    --brand-light: #FFFFFF; /* white - page background */
+    --brand-surface: #F5F5F5; /* light grey-white - card/section background */
+    --brand-text: #101820; /* near-black - body text on light bg */
+    --brand-border: #0B3D91; /* blue-tinted border, or swap to a grey if you want more contrast */
+}
+
+body {
+    background-color: var(--brand-light);
+    color: var(--brand-text);
+}
+
+/* ---- Navbar (every page) ---- */
+.navbar {
+    background-color: var(--brand-primary) !important;
+    padding: 0.75rem 1.5rem;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.navbar .nav-link {
+    color: rgba(255, 255, 255, 0.85) !important;
+    font-weight: 500;
+    margin-left: 0.5rem;
+}
+
+    .navbar .nav-link:hover,
+    .navbar .nav-link.active {
+        color: #fff !important;
+        border-bottom: 2px solid var(--brand-accent);
+    }
+
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 768px) {
+    .navbar-collapse {
+        background-color: var(--brand-primary);
+        padding: 0.5rem 0;
+        border-radius: 4px;
+        margin-top: 0.5rem;
+    }
+
+    .navbar .nav-link {
+        margin-left: 0;
+        padding: 0.5rem 1rem;
+    }
+}
+
+/* ---- Headings (every page) ---- */
+h1, h2, h3 {
+    color: var(--brand-primary);
+}
+
+/* ---- Links (every page) ---- */
+a {
+    color: var(--brand-accent);
+}
+
+    a:hover {
+        color: var(--brand-primary);
+    }
+
+/* ---- Buttons (every page) ---- */
+.btn-primary {
+    background-color: var(--brand-accent);
+    border-color: var(--brand-accent);
+}
+
+    .btn-primary:hover {
+        background-color: var(--brand-primary);
+        border-color: var(--brand-primary);
+    }
+
+/* ---- Generic cards / panels (dashboard, lists, etc.) ---- */
+.card {
+    background-color: #fff;
+    border: 1px solid var(--brand-border);
+    border-radius: 10px;
+}
+
+/* ---- Form controls (every page with a form) ---- */
+.form-control {
+    border-radius: 6px;
+    border: 1px solid var(--brand-border);
+    padding: 0.6rem 0.75rem;
+}
+
+    .form-control:focus {
+        border-color: var(--brand-accent);
+    }
+
+/* ---- Auth forms (Login / Register) ---- */
+.auth-card {
+    max-width: 420px;
+    margin: 3rem auto;
+    background: #fff;
+    border: 1px solid var(--brand-border);
+    border-radius: 10px;
+    padding: 2.25rem 2rem;
+    box-shadow: 0 2px 10px rgba(59, 109, 17, 0.08);
+}
+
+    .auth-card h1 {
+        font-size: 1.75rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .auth-card label {
+        font-weight: 500;
+        margin-bottom: 0.25rem;
+    }
+
+    .auth-card .form-control {
+        margin-bottom: 1rem;
+    }
+
+    .auth-card .btn-primary {
+        width: 100%;
+        padding: 0.6rem;
+        font-weight: 500;
+        margin-top: 0.5rem;
+    }
+
+/* ---- Footer (every page) ---- */
+.footer {
+    background-color: var(--brand-surface);
+    border-top: 1px solid var(--brand-border);
+    color: #5C6E52; /* ← old muted green, hardcoded */
+    padding: 1rem 0;
+}
+
+/* ---- Dashboard summary cards (override Bootstrap defaults) ---- */
+.card.bg-primary {
+    background-color: var(--brand-primary) !important; /* blue */
+    border-color: var(--brand-primary) !important;
+}
+
+.card.bg-success {
+    background-color: var(--brand-accent) !important; /* dark green */
+    border-color: var(--brand-accent) !important;
+}
+
+.card.bg-info {
+    background-color: var(--brand-text) !important; /* near-black */
+    border-color: var(--brand-text) !important;
+}
+
+.card.bg-warning {
+    background-color: #4C6EF5 !important; /* lighter blue accent, so it's not identical to bg-primary */
+    border-color: #4C6EF5 !important;
+}
+
+    .card.bg-primary .card-title,
+    .card.bg-success .card-title,
+    .card.bg-info .card-title,
+    .card.bg-warning .card-title,
+    .card.bg-primary .card-body,
+    .card.bg-success .card-body,
+    .card.bg-info .card-body,
+    .card.bg-warning .card-body {
+        color: #fff;
+    }
+
+/* ---- Services page: circular icon boxes ---- */
+.service-circle {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: var(--brand-primary);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
